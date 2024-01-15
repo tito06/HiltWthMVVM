@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ProjectTest"
+        parent="android:Theme.Material.Light.NoActionBar" />
+
+
+    <style name="SplashScreenTheme" parent="Theme.ProjectTest">
+        <item name="android:windowBackground">@drawable/big_splash</item>
+    </style>
+</resources>
